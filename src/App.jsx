@@ -22,7 +22,7 @@ const App = () => {
   return (
     <>
       <Router>
-        <div className="container w-[1200px] mx-auto">
+        <div className="container lg:w-[1200px] w-[95%] mx-auto">
           <Header />
           <Routes>
             <Route exact path="/" element={<Home />} />
