@@ -43,7 +43,7 @@ const Dance = () => {
             </Fade>
             <button>
               <a
-                href="#"
+                href="https://aadrikagoyal.com/Extra%20Carricular%20Activity.pdf"
                 className="absolute left-0 rounded-sm  px-4 py-2 bg-black text-white inline-block"
               >
                 More Activities

@@ -26,7 +26,7 @@ const OnlineCourse = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/images/courses/Brand%20management%20certificate.jpeg"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>
@@ -45,7 +45,7 @@ const OnlineCourse = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/images/courses/platform%20building%20certificate.jpeg"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>
@@ -66,7 +66,7 @@ const OnlineCourse = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/images/courses/Aadrika%20Goyal.png"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>

@@ -50,8 +50,8 @@ const IndustryProject = () => {
               Certificates
             </h2>
           </header>
-          <div className="w-100 card flex gap-5">
-            <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+          <div className="card flex flex-wrap justify-center gap-5">
+            <div className="w-[45%] inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">
                 Business Plan Challenge with E-Cell IIT Roorkee
               </h3>
@@ -62,13 +62,13 @@ const IndustryProject = () => {
               <button>
                 <a
                   className="px-4 py-2 mt-4 inline-block bg-black text-white"
-                  href="#"
+                  href="https://aadrikagoyal.com/pdfs/AADRIKA%20GOYAL.pdf"
                 >
                   Know More
                 </a>
               </button>
             </div>
-            <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+            <div className="w-[45%] inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">
                 JuniorMBA in Digital Marketing with a company project by Puma
               </h3>
@@ -79,13 +79,13 @@ const IndustryProject = () => {
               <button>
                 <a
                   className="px-4 py-2 mt-4 inline-block bg-black text-white"
-                  href="#"
+                  href="https://aadrikagoyal.com/pdfs/Certificate-3.pdf"
                 >
                   Know More
                 </a>
               </button>
             </div>
-            <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+            <div className="w-[45%] inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">
                 JuniorMBA in Entrepreneurship company project by Multiply
                 Ventures
@@ -97,13 +97,13 @@ const IndustryProject = () => {
               <button>
                 <a
                   className="px-4 py-2 mt-4 inline-block bg-black text-white"
-                  href="#"
+                  href="https://aadrikagoyal.com/pdfs/Certificate-5.pdf"
                 >
                   Know More
                 </a>
               </button>
             </div>
-            <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+            <div className="w-[45%] inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">
                 Case Study: Entrepreneurship with a company project by Multiply
                 Ventures
@@ -111,20 +111,20 @@ const IndustryProject = () => {
               <button>
                 <a
                   className="px-4 py-2 mt-4 inline-block bg-black text-white"
-                  href="#"
+                  href="https://aadrikagoyal.com/Multiply%20ventures.pdf"
                 >
                   Know More
                 </a>
               </button>
             </div>
-            <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+            <div className="w-[45%] inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">
                 Digital Marketing with a company project by PUMA
               </h3>
               <button>
                 <a
                   className="px-4 py-2 mt-4 inline-block bg-black text-white"
-                  href="#"
+                  href="https://aadrikagoyal.com/Presentation%204.pptx"
                 >
                   Know More
                 </a>

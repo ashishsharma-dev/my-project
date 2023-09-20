@@ -25,7 +25,7 @@ const Publication = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/pdfs/SCAM%20STUDY.pdf"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>
@@ -45,7 +45,7 @@ const Publication = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/pdfs/START%20UP%20INDIA.pdf"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>
@@ -64,7 +64,7 @@ const Publication = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/pdfs/The%20Temple%20Economy%20of%20India.pdf"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>
@@ -84,7 +84,7 @@ const Publication = () => {
               <button>
                 <a
                   href="https://aadrikagoyal.com/pdfs/worksheet.pdf"
-                  className="absolute lg:top-[50%] -bottom-3 lg:right-5 left-5 -translate-y-1/2 rounded-sm  lg:px-4 px-2 lg:py-2 py-1 bg-black text-white inline-block"
+                  className="mt-3 inline-block font-bold text-blue-700"
                 >
                   Know More
                 </a>

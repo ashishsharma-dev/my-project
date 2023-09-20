@@ -48,14 +48,6 @@ const CommunityService = () => {
                 Club collecting 23 pairs and donating them.
               </div>
             </Fade>
-            <button>
-              <a
-                href="#"
-                className="absolute left-0 rounded-sm  px-4 py-2 bg-black text-white inline-block"
-              >
-                View More
-              </a>
-            </button>
           </div>
           <div className="lg:w-[48%] w-full card mx-auto">
             <Fade top>
