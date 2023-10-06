@@ -8,11 +8,11 @@ const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="container my-5 ">
-      <header>
+      {/* <header>
         <h2 className="text-center text-4xl lg:block hidden font-semibold">
           Aadrika Goyal
         </h2>
-      </header>
+      </header> */}
 
       <nav className="flex items-center justify-between flex-wrap p-6">
         <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72 ">

@@ -8,7 +8,7 @@ const Home = () => {
         <header>
           <Fade cascade>
             <h1 className="text-center lg:text-7xl text-4xl font-bold">
-              Aadrika Goyal
+              I am Aadrika
             </h1>
           </Fade>
           <img
@@ -20,12 +20,12 @@ const Home = () => {
       </Fade>
       <main className="">
         <Fade top>
-          <p className="text-[19px] mb-6 leading-[24px] tracking-[1px] font-bold">
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-bold">
             Hello!
           </p>
         </Fade>
         <Fade top>
-          <p className="text-[19px] mb-6 leading-[24px] tracking-[1px] font-light">
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
             A talented and driven 12th grader student with an impressive array
             of interests and accomplishments. From the world of dance to
             publications, research, community service, and entrepreneurial
@@ -33,7 +33,7 @@ const Home = () => {
           </p>
         </Fade>
         <Fade top>
-          <p className="text-[19px] mb-6 leading-[24px] tracking-[1px] font-light">
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
             Aadrika Goyal, a talented and driven 12th grader student with an
             impressive array of interests and accomplishments. From the world of
             dance to publications, research, community service, and
@@ -43,7 +43,7 @@ const Home = () => {
         </Fade>
 
         <Fade top>
-          <p className="text-[19px] mb-6 leading-[24px] tracking-[1px] font-light">
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
             Join Aadrika on her journey as she continues to make waves in
             various fields, leaving a mark wherever her endeavors take her.
             Prepare to be inspired by this young go-getter who embodies the

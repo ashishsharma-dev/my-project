@@ -6,7 +6,7 @@ const AcademicHonours = () => {
     <div className="mainContent mt-[4rem]">
       <Fade top>
         <header>
-          <h2 className="text-center text-7xl font-bold">Education</h2>
+          <h2 className="text-center text-7xl font-bold">Academic Honours</h2>
         </header>
       </Fade>
       <main>
@@ -56,21 +56,23 @@ const AcademicHonours = () => {
             </div>
           </Fade>
 
-          <Fade top>
-            <div className="card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
-              <h3 className="text-2xl font-bold">2016</h3>
-              <p className="text-base mt-3">
-                World Record Title Holder , A Golden Book of World Records - for
-                dancing continuously on skates for 105 minutes (1 hr 45 min)
-              </p>
-            </div>
-          </Fade>
+          
           <Fade top>
             <div className="card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
               <h3 className="text-2xl font-bold">2017</h3>
               <p className="text-base mt-3">
                 Title Holder, The Golden Book of World Records - for ceaseless
                 1850 kathak spins.
+              </p>
+            </div>
+          </Fade>
+
+          <Fade top>
+            <div className="card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+              <h3 className="text-2xl font-bold">2016</h3>
+              <p className="text-base mt-3">
+                World Record Title Holder , A Golden Book of World Records - for
+                dancing continuously on skates for 105 minutes (1 hr 45 min)
               </p>
             </div>
           </Fade>

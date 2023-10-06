@@ -11,7 +11,7 @@ import MarketReport from "./pages/MarketReport";
 import IndustryProject from "./pages/IndustryProject";
 import Olympiads from "./pages/Olympiads";
 import OnlineCourse from "./pages/OnlineCourse";
-import Publication from "./pages/Publication";
+import Publications from "./pages/Publications";
 import Dance from "./pages/Dance";
 import CommunityService from "./pages/CommunityService";
 import OtherEndeavors from "./pages/OtherEndeavors";
@@ -46,7 +46,7 @@ const App = () => {
             />
             <Route exact path="/olympiads" element={<Olympiads />} />
             <Route exact path="/online-course" element={<OnlineCourse />} />
-            <Route exact path="/publication" element={<Publication />} />
+            <Route exact path="/publications" element={<Publications />} />
             <Route exact path="/dance" element={<Dance />} />
             <Route
               exact

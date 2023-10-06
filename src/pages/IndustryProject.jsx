@@ -37,14 +37,18 @@ const IndustryProject = () => {
                   ex-founders of Myntra, Paytm and Alibaba)
                 </a>
               </div>
-              <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+              {/* <div className="inner-card shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
                 Successfully completed a course in ,” Digital Marketing “with
                 Clever Harvey. Designed a social campaign for PUMA (
                 Multinational corporation in sportswear) which was pitched to
                 PUMA for their marketing.
-              </div>
+              </div> */}
             </div>
           </Fade>
+
+
+          {/*  */}
+
           <header>
             <h2 className="text-center lg:text-7xl text-4xl font-bold my-4">
               Certificates
@@ -131,6 +135,19 @@ const IndustryProject = () => {
               </button>
             </div>
           </div>
+
+          <header>
+            <h2 className="text-center lg:text-7xl text-4xl font-bold my-4">
+              Internship
+            </h2>
+          </header>
+
+          <Fade top>
+            <div className="card w-[100%]  shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+              <h3 className="text-2xl font-bold">Internship</h3>
+              <p className="text-base mt-3">23rd May - 18th June</p>
+            </div>
+          </Fade>
         </div>
       </main>
     </div>

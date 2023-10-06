@@ -1,13 +1,13 @@
 import React from "react";
 import { Fade } from "react-reveal";
 
-const Publication = () => {
+const Publications = () => {
   return (
     <div className="mainContent mt-[4rem]">
       <Fade top>
         <header>
           <h2 className="text-center lg:text-7xl text-4xl font-bold">
-            Publication
+            Publications
           </h2>
         </header>
       </Fade>
@@ -91,10 +91,27 @@ const Publication = () => {
               </button>
             </div>
           </Fade>
+
+          <Fade top>
+            <div className="card w-100  shadow-sm hover:shadow-md cursor-pointer transition-all bg-slate-100 rounded-sm p-5">
+              <h3 className="text-2xl font-bold">Research</h3>
+              <p className="text-base mt-3">
+                Wrote an article on, "
+                <a
+                  className="text-blue-600 font-semibold"
+                  href="https://aadrikagoyal.com/pdfs/RISE%20OF%20NEOLIBERALISM.pdf"
+                >
+                  Rise of Neoliberalism: A Class Ideology
+                </a>
+                " under Professor Dr. Ambreen Agha and submitted it in the
+                Department of Economics, at OP Jindal University, India
+              </p>
+            </div>
+          </Fade>
         </div>
       </main>
     </div>
   );
 };
 
-export default Publication;
+export default Publications;
