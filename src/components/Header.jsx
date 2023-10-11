@@ -143,12 +143,12 @@ const Header = () => {
               </li>
               <li>
                 <NavLink
-                  to="/publication"
+                  to="/publications"
                   className={({ isActive, isPending }) =>
                     isPending ? "pending" : isActive ? "active" : ""
                   }
                 >
-                  Publication
+                  Publications
                 </NavLink>
               </li>
               <li>
@@ -171,7 +171,7 @@ const Header = () => {
                   Community Service
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/other-endeavors"
                   className={({ isActive, isPending }) =>
@@ -180,7 +180,7 @@ const Header = () => {
                 >
                   Other Endeavors
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink
                   to="/interest-hobbies"

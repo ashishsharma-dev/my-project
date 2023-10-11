@@ -2,6 +2,10 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Fade } from "react-reveal";
 import "swiper/css";
+import Video1 from "../assets/vid (1).mp4"
+import Video2 from "../assets/vid (2).mp4"
+import Video3 from "../assets/vid (3).mp4"
+import Video4 from "../assets/save plant.mp4"
 
 const Dance = () => {
   return (
@@ -118,7 +122,34 @@ const Dance = () => {
             </Fade>
           </div>
         </div>
+
+
+        <Fade top>
+        <header className="mt-[4rem]">
+          <h2 className="text-center lg:text-7xl text-4xl font-bold my-5 mb-10">
+            Dance Videos
+          </h2>
+        </header>
+      </Fade>
+        <div className="videoSection mt-4">
+            <div className="flex gap-6 flex-wrap justify-center">
+                  <div className="box rounded-xl overflow-hidden w-50">
+                    <video controls src={Video2}></video>
+                  </div>
+                  <div className="box rounded-xl overflow-hidden w-50">
+                  <video controls src={Video3}></video>
+                  </div>
+                  <div className="box rounded-xl overflow-hidden w-50">
+                  <video width={500} controls src={Video1}></video>
+                  </div>
+                  <div className="box rounded-xl overflow-hidden w-50">
+                  <video width={500} controls src={Video4}></video>
+                  </div>
+            </div>
+        </div>
       </main>
+
+
     </div>
   );
 };

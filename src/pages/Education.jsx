@@ -19,7 +19,7 @@ const Education = () => {
                 </h3>
                 <p className="text-base mt-3">
                   Will appear for Central Board of Secondary Education (CBSE)
-                  Examination at the end of Grade 12 - 2024.
+                  Examination at the end of Grade 12th - 2024.
                 </p>
               </div>
             </Fade>
@@ -30,8 +30,8 @@ const Education = () => {
                   St. Patrick’s Junior High School 2022
                 </h3>
                 <p className="text-base mt-3">
-                  Will appear for Central Board of Secondary Education (CBSE)
-                  Examination at the end of Grade 12 - 2024.
+                  Have appeared for Central Board of Secondary Education (CBSE)
+                  Examination at the end of Grade 10th - 2024.
                 </p>
               </div>
             </Fade>

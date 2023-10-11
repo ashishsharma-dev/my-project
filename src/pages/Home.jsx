@@ -26,29 +26,39 @@ const Home = () => {
         </Fade>
         <Fade top>
           <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
-            A talented and driven 12th grader student with an impressive array
-            of interests and accomplishments. From the world of dance to
-            publications, research, community service, and entrepreneurial
-            endeavors, my journey is nothing short of extraordinary.
+          I am Aadrika Goyal, a highly motivated and accomplished 12th-grade student, characterized by a diverse range of passions and notable achievements. My journey through education has been marked by a relentless pursuit of excellence across a myriad of disciplines. 
+
           </p>
         </Fade>
         <Fade top>
           <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
-            Aadrika Goyal, a talented and driven 12th grader student with an
-            impressive array of interests and accomplishments. From the world of
-            dance to publications, research, community service, and
-            entrepreneurial endeavors, Aadrika’s journey is nothing short of
-            extraordinary.
+          In the realm of dance, I've demonstrated exceptional talent and dedication, mastering various forms and leaving audiences mesmerized with my performances. This artistic pursuit reflects my commitment to self-expression and creativity.
+
           </p>
         </Fade>
 
         <Fade top>
           <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
-            Join Aadrika on her journey as she continues to make waves in
-            various fields, leaving a mark wherever her endeavors take her.
-            Prepare to be inspired by this young go-getter who embodies the
-            perfect blend of ambition and genuine warmth.
+          Furthermore, my academic journey has been equally impressive. I've ventured into publications and research, showcasing my intellectual curiosity and thirst for knowledge. This pursuit has not only broadened my horizons but also allowed me to contribute to the advancement of knowledge in my areas of interest.
+
           </p>
+        </Fade>
+        <Fade top>
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
+          Committed to making a positive impact on my community, I've actively engaged in various community service initiatives. My dedication to giving back has been instrumental in shaping my character and fostering a sense of responsibility towards society.
+          </p>
+        </Fade>
+
+        <Fade top>
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
+          Notably, I've also ventured into entrepreneurial endeavors, demonstrating my ability to think innovatively and create opportunities. These experiences have instilled in me an entrepreneurial spirit that fuels my desire to make a mark in the business world.
+          </p>
+        </Fade>
+
+        <Fade top>
+          <p className="text-[25px] mb-6 leading-[30px] tracking-[0px] font-light">
+          As I continue on my journey, I invite you to join me in witnessing the waves I make across these diverse fields. Together, we'll explore the realms of art, academia, community service, and entrepreneurship, as I leave a lasting impression wherever my endeavors take me.         
+           </p>
         </Fade>
       </main>
     </div>
